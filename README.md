@@ -1,1 +1,1 @@
-# dialectic
+# Dialectic
